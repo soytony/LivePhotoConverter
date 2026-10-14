@@ -1,0 +1,15 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated conversion and investigation logs
+logs/
+
+# macOS metadata
+.DS_Store
+._*
